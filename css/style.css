@@ -36,7 +36,7 @@ option {
     
   --BGCOLOR-FADE: rgba(252, 220, 160);
   --BGCOLOR: orange;
-  --BGIMAGE-COLOR: linear-gradient(to bottom, var(--BGCOLOR),  var(--BGCOLOR-FADE));
+  --BGIMAGE-COLOR: linear-gradient(to bottom, var(--BGCOLOR), var(--BGCOLOR-FADE));
   --BODY-COLOR: #fff;
   --BORDER-COLOR: #333;
   --BUTTON-BGCOLOR: rgb(51, 178, 51);
@@ -190,7 +190,7 @@ ul {
   /* gap: 1rem; */
 }
 
-/* HERO */
+/* HERO */ 
 
 .hero {
   position: relative;
